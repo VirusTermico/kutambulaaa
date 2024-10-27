@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "544318675493",
+    "project_id": "embarcador-d932b",
+    "storage_bucket": "embarcador-d932b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544318675493:android:0211485bf023410c9d7dcc",
+        "android_client_info": {
+          "package_name": "com.beno.nahora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544318675493-08g7jnk4jftse950ss6tuuckoe6t1hg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beno.nahora",
+            "certificate_hash": "5971f8fec15a10417ccbb1fe9e8ac74b93d3517e"
+          }
+        },
+        {
+          "client_id": "544318675493-k3i24mp96n33tbo4h46jghioja80pnb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawR_AVA_mD8xBdltiTtk7xLycQu8Zscw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544318675493-k3i24mp96n33tbo4h46jghioja80pnb7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544318675493-8chtvtuo734j4flm6j7f9graod1qdois.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beno.jp.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
